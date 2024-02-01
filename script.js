@@ -1,1 +1,1 @@
-alert('A script.js file was linked')
+console.log('This is my first GIT homework')
